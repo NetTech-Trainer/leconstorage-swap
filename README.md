@@ -129,12 +129,3 @@ blkid
 This setup is suitable for **servers, VMs, and cloud instances**.
 
 ---
-
-If you want, I can also:
-
-* Add **fstab persistence section**
-* Convert this to **LVM-based swap**
-* Add **troubleshooting**
-* Optimize for **production README standards**
-
-Just tell me 👍
