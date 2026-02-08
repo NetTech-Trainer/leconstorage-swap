@@ -1,6 +1,4 @@
 # leconstorage
-Here’s a clean, **Git-ready `README.md`** built from your command history.
-You can copy-paste this directly into a Git repository.
 
 ---
 
